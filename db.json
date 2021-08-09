@@ -1,4 +1,4 @@
-[{
+{"users": [{
 "id": 1,
 "name": "userone",
 "password": "abc!@#",
@@ -10,3 +10,4 @@
 }
 
 ]
+}
